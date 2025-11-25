@@ -1,2 +1,9 @@
-# trabalho-docker
-Atividade proposta na atividade de programação para rede (Mude a descrição)
+Docker com Proxy Squid 🦑
+     
+      ▛▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▜
+         Passo a Passo 
+      ▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▟
+
+       1° Precisamos
+
+
