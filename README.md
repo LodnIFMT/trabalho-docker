@@ -38,9 +38,9 @@ apenas os sites listados em `allowed-sites` podem ser acessados, todos os demais
 docker compose version
   ```
   - o resultadoo deve ser algo parecido com a linha abaixo:
-    ```bash
-   Docker Compose version v2.32.4-desktop.1
-    ```
+  ```bash
+Docker Compose version v2.32.4-desktop.1
+  ```
 - Caso você esteja usando o sistema operacional Windows, execute o programa Docker Descktop
 
 ## Como começar
