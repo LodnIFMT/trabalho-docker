@@ -35,7 +35,7 @@ apenas os sites listados em `allowed-sites` podem ser acessados, todos os demais
 
   - docker compose
   ```bash
-  docker compose version
+docker compose version
   ```
   - o resultadoo deve ser algo parecido com a linha abaixo:
     ```bash
@@ -73,7 +73,6 @@ Depois que terminar de subir o compose, vamos entrar em uma das maquinas de usua
 ```bash
 docker exec -it user1 bash
 ```
-****
 
 Para testar se o squid proxy esta em funcionamento na rede, execute:
 ```bash
