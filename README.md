@@ -19,7 +19,7 @@ apenas os sites listados em `allowed-sites` podem ser acessados, todos os demais
   ```bash
   git --version
   ```
-    - o resultadoo deve ser algo parecido com a linha abaixo:
+    - o resultado deve ser algo parecido com a linha abaixo:
     ```bash
     git version 2.48.1.windows.1
     ```
@@ -28,19 +28,19 @@ apenas os sites listados em `allowed-sites` podem ser acessados, todos os demais
   ```bash
   docker --version
   ```
-   - o resultadoo deve ser algo parecido com a linha abaixo:
+   - o resultado deve ser algo parecido com a linha abaixo:
     ```bash
     Docker version 27.5.1, build 9f9e405
     ```
 
   - docker compose
   ```bash
-docker compose version
+  docker compose version
   ```
-  - o resultadoo deve ser algo parecido com a linha abaixo:
-  ```bash
-Docker Compose version v2.32.4-desktop.1
-  ```
+    - o resultado deve ser algo parecido com a linha abaixo:
+    ```bash
+    Docker Compose version v2.32.4-desktop.1
+    ```
 - Caso você esteja usando o sistema operacional Windows, execute o programa Docker Descktop
 
 ## Como começar
