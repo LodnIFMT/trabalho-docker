@@ -64,10 +64,13 @@ caso queira verificar, se o compose foi inciado com sucesso, execute o comando:
 ```bash
 docker ps
 ```
- - o resultadoo deve ser algo parecido com a linha abaixo:
-    ```bash
-   
-    ```
+  - o resultadoo deve ser algo parecido com a linha abaixo:
+  ```bash
+  CONTAINER ID   IMAGE                          COMMAND                  CREATED          STATUS          PORTS                    NAMES
+  8304a58b2535   trabalho-docker-user01         "tail -f /dev/null"      24 seconds ago   Up 23 seconds                            user1
+  9d39f1e95270   trabalho-docker-user02         "tail -f /dev/null"      24 seconds ago   Up 23 seconds                            user2
+  b9a35e552efb   ubuntu/squid:4.10-20.04_beta   "entrypoint.sh -f /e…"   25 seconds ago   Up 23 seconds     0.0.0.0:3128->3128/tcp   squid
+  ```
 
 Depois que terminar de subir o compose, vamos entrar em uma das maquinas de usuario para fazermos o teste:
 ```bash
